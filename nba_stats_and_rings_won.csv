@@ -1,25 +1,25 @@
-﻿Player_Name,Category,Value,o
-Kobe Bryant,assist_pct,0.2387,o
-Kobe Bryant,average assist,4.76,o
-Kobe Bryant,average points,24.2,o
-Kobe Bryant,average rebound,5.2,o
-Kobe Bryant,net_rating,2.6,o
-Kobe Bryant,rings_won,5,o
-Kobe Bryant,true_shooting_pct,0.5432,o
-Kobe Bryant,usage_pct,0.3116,o
-LeBron James,assist_pct,0.352,o
-LeBron James,average assist,7.368421053,o
-LeBron James,average points,27.11052632,o
-LeBron James,average rebound,7.5,o
-LeBron James,net_rating,6.7,o
-LeBron James,rings_won,4,o
-LeBron James,true_shooting_pct,0.589684211,o
-LeBron James,usage_pct,0.312947368,o
-Michael Jordan,assist_pct,0.221,o
-Michael Jordan,average assist,4.2,o
-Michael Jordan,average points,25.3,o
-Michael Jordan,average rebound,5.875,o
-Michael Jordan,net_rating,5.4,o
-Michael Jordan,rings_won,6,o
-Michael Jordan,true_shooting_pct,0.51475,o
-Michael Jordan,usage_pct,0.329,o
+﻿Player_Name,Category,Value,o,rings_won
+Kobe Bryant,assist_pct,0.2387,o,5
+Kobe Bryant,average assist,4.76,o,5
+Kobe Bryant,average points,24.2,o,5
+Kobe Bryant,average rebound,5.2,o,5
+Kobe Bryant,net_rating,2.6,o,5
+Kobe Bryant,rings_won,5,o,5
+Kobe Bryant,true_shooting_pct,0.5432,o,5
+Kobe Bryant,usage_pct,0.3116,o,5
+LeBron James,assist_pct,0.352,o,4
+LeBron James,average assist,7.368421053,o,4
+LeBron James,average points,27.11052632,o,4
+LeBron James,average rebound,7.5,o,4
+LeBron James,net_rating,6.7,o,4
+LeBron James,rings_won,4,o,4
+LeBron James,true_shooting_pct,0.589684211,o,4
+LeBron James,usage_pct,0.312947368,o,4
+Michael Jordan,assist_pct,0.221,o,6
+Michael Jordan,average assist,4.2,o,6
+Michael Jordan,average points,25.3,o,6
+Michael Jordan,average rebound,5.875,o,6
+Michael Jordan,net_rating,5.4,o,6
+Michael Jordan,rings_won,6,o,6
+Michael Jordan,true_shooting_pct,0.51475,o,6
+Michael Jordan,usage_pct,0.329,o,6
